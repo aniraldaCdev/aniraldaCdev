@@ -1,22 +1,39 @@
-- 👋 Hi, I’m @aniraldaCdev
-- 👀 I’m interested in software engineering, mobile development and tech startups.
-- 🌱 I’m currently learning Flutter deeply, Dart, and front-end mobile development.
-- 💞️ I’m looking to collaborate on open-source Flutter projects, tech-for-good initiatives, or anything mobile-related.
-- 📫 How to reach me Email: aniraldachipilika@gmail.com|
-- 😄 Pronouns:She/her
-- ⚡ Fun fact: Im a proud girl in tech, working hard to become a Fullstack Mobile Developer!
+<h1 align="center">Hey, I'm Aniralda (Any)!</h1>
+<p align="center">✨ Future Software Engineer | Flutter Dev in Progress | Dreaming Big ✨</p>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
+---
+
+### 🚀 About Me
+
+I'm a passionate student of Computer Science based in Angola. Currently diving deep into Flutter, Dart, APIs, OOP, and Data Structures. I love building apps and dream of creating solutions that impact Africa — and the world!
+
+---
+
+### ⚙ Tech Stack & Tools I Use
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=api&logoColor=white" />
+</p>
+
+---
+
+### ✨ Fun Fact
+
+I mix code with dreams — because I believe Africa can lead in tech too!
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/teu_username"><img src="https://img.shields.io/badge/GitHub-Any-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- Adiciona links do LinkedIn, portfólio ou e-mail aqui se quiseres -->
+</p>
 
 
-<!---
-aniraldaCdev/aniraldaCdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
