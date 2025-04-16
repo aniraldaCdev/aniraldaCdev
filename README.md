@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate student of Computer Science based in Angola. Currently diving deep into Flutter, Dart, APIs, OOP, and Data Structures. I love building apps and dream of creating solutions that impact Africa — and the world!
+I'm a passionate student of Computer Science based in Angola. Currently diving deep into Flutter, Dart, APIs, OOP, and Data Structures. I love building apps and dream of creating solutions that impact the world!
 
 ---
 
@@ -25,7 +25,7 @@ I'm a passionate student of Computer Science based in Angola. Currently diving d
 
 ### ✨ Fun Fact
 
-I mix code with dreams — because I believe Africa can lead in tech too!
+I'm a proud tech girl, working hard to become aFullStack Mobile Developer.
 
 ---
 
@@ -33,7 +33,7 @@ I mix code with dreams — because I believe Africa can lead in tech too!
 
 <p align="center">
   <a href="https://github.com/teu_username"><img src="https://img.shields.io/badge/GitHub-Any-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- Adiciona links do LinkedIn, portfólio ou e-mail aqui se quiseres -->
+     aniraldachipilika@gmail.com <!--Adiciona links do LinkedIn, portfólio ou e-mail aqui se quiseres -->
 </p>
 
 
