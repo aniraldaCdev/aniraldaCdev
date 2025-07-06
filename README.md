@@ -33,7 +33,7 @@ I'm a proud tech girl, working hard to become aFullStack Mobile Developer.
 
 <p align="center">
   <a href="https://github.com/teu_username"><img src="https://img.shields.io/badge/GitHub-Any-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-     aniraldachipilika@gmail.com <!--Adiciona links do LinkedIn, portfólio ou e-mail aqui se quiseres -->
+     aniraldachipilika@gmail.com <!--Adiciona links do LinkedIn, portfólio ou e-mail aqui se quiseres https://www.instagram.com/_sweetstack_?igsh=OGtlNjJibHlpMTBt-->
 </p>
 
 
